@@ -35,5 +35,7 @@ Tugas Praktikum 2
 
 3. Method pada langkah 3 menambahkan dua getter (completedCount dan completenessMessage) pada model Plan. Getter ini berguna untuk mengetahui jumlah tugas yang sudah selesai dan memberikan pesan status, menjadikan UI aplikasi lebih informatif.
 
+4. saya disini merender tampilan daftar tugas yang selalu terupdate berdasarkan data Plan yang dikelola oleh PlanProvider, serta menampilkan status kelengkapan tugas di bagian bawah layar.
+
 Tugas Praktikum 3
 
