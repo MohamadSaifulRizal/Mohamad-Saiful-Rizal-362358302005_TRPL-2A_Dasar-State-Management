@@ -39,3 +39,8 @@ Tugas Praktikum 2
 
 Tugas Praktikum 3
 
+![image](https://github.com/user-attachments/assets/32a2cab8-6f13-4537-a217-aadcbd223bb4)
+
+2. Diagram pada Praktikum 3 menggambarkan konsep "Lift State Up". Ini berarti menempatkan state pada posisi lebih tinggi dalam pohon widget agar state tersebut dapat diakses oleh banyak widget di berbagai layar (multi-screen). Dengan cara ini, data yang disimpan di state dapat dibagikan di beberapa layar yang membutuhkan akses terhadap data yang sama.
+
+3. Langkah ini saya membuat tampilan untuk membuat rencana baru (Plan) dengan text field untuk nama rencana, daftar rencana yang sudah ada, dan kemampuan untuk beralih ke tampilan daftar tugas (PlanScreen) dari setiap rencana yang dibuat.
